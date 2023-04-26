@@ -11,7 +11,7 @@ function Header(props) {
     <div className="Header container">
       <div className="ten columns">
         <h1>
-          <strong>AlgoVine by CodersVault</strong>
+          <strong>AlgoVine </strong>by CodersVault
         </h1>
       </div>
       <div className="two columns">
